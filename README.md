@@ -66,7 +66,7 @@ Lors du premier lancement :
 ---
 
 
-# 📸 3. Ajouter une capture (TRÈS important)
+# 📸 3. Screenshot 
 
 👉 dans ton README ajoute :
 <img width="950" height="246" alt="display" src="https://github.com/user-attachments/assets/efc9a981-88c3-464e-90e4-fad6e559c08d" />
